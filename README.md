@@ -4,6 +4,8 @@ python socket program demo
 
 my project of course Computer Network
 
+requirements: python3
+
 usage:
 
 ```shell
