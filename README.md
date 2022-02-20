@@ -14,5 +14,5 @@ python server.py
 python client.py
 ```
 
-There is one pdf report for this demo in Chinese.
+see more details in usage.pdf and report.pdf
 
